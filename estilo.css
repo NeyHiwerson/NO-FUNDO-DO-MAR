@@ -1,1 +1,15 @@
-h1
+h1{
+    font-size: 32px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+main{
+    background-color:darkblue;
+    width: 690px;
+margin: auto;
+text-align: center;
+}
+p{
+    text-align: left;
+    font-size: 27px ;
+}
